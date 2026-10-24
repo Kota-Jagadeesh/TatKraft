@@ -1,0 +1,6 @@
+{
+  "name": "TatKraft - Action-Driven Task & Habit Engine",
+  "description": "Delightful, buttery-smooth Soft UI task manager with advanced multi-interval reminders, urgency analytics, and tactile celebration physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
